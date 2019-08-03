@@ -4,6 +4,7 @@
     <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
     <a href="#微信公众号"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/CyC2018?icon=rss&color=4ab8a1"></a>
 </div>
+浏览次数统计 ：![总访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=DavidWhom.CS-Notes-Learning) ![今日来访](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=DavidWhom.CS-Notes-Learning)
 <br>
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
@@ -86,7 +87,6 @@
 <br>
 
 <div align="center"><img width="300px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/other/公众号海报6.png"></img></div>
-
 ### 更多内容
 
 - 内推：[Job-Recommend](https://github.com/CyC2018/Job-Recommend)
